@@ -1,7 +1,7 @@
 # practice
 ngo quang bao
 Vũ Văn Chức
-ádasdas
-abc
-tung
+I'm destroying this file
+for fun
+Le Duc Manh
 
